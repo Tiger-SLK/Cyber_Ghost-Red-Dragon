@@ -29,10 +29,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
+global.vcardowner = ['+94762402250'] // owner number
 global.ownername = "Cyber_Ghost" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: Tiger-SLK" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94762402250'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
